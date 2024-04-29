@@ -1,1 +1,18 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+.context {
+  text-align: center;
+  font-size: 72px;
+  background-color: khaki;
+  padding: 10px;
+  border: 24px solid crimson;
+  height: 500px;
+}
+.container {
+  background-color: black;
+  width: 100vw;
+  height: 500px;
+  padding: 10px;
+  border: 16px solid lightgrey;
+}
