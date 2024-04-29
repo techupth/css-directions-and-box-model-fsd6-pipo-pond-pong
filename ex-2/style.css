@@ -1,5 +1,7 @@
 * {
     background-color: lightgrey;
+    margin: 0;
+    padding: 0;
 }
 .container {
     display: block;
@@ -12,8 +14,8 @@
 
 h1 {
     background-color: khaki;
-    width: 98%;
-    height: 95%;
+    width: 95vw;
+    height: 92vh;
     margin: 20px;
     text-align: center;
     padding: 20px;
