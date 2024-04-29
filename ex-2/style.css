@@ -1,1 +1,24 @@
-/* Start coding here */
+* {
+    background-color: lightgrey;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: block;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    border: 5px solid black;
+    background-color: crimson;
+}
+
+h1 {
+    background-color: khaki;
+    width: 95vw;
+    height: 92vh;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+}
+
