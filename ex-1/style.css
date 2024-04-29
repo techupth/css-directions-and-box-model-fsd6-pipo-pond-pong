@@ -1,1 +1,23 @@
-/* Start coding here */
+* {
+    font-family: 'Sarabun'
+}
+
+header {
+    background-color: lightblue;
+    padding: 30px;
+    font-size: 30px;
+    color: black;
+}
+
+.container {
+    display: block;
+    margin: 20px;
+    width: 40%;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+img {
+    width: 80%;
+    
+}
