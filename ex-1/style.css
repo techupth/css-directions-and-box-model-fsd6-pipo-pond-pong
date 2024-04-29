@@ -1,1 +1,25 @@
-/* Start coding here */
+.main-contain {
+  height: 100vh;
+  padding: 20px;
+}
+
+.head {
+  height: 5%;
+  padding: 20px;
+  background-color: lightblue;
+}
+
+.content-1 {
+  border: solid darkblue;
+  margin: 30px;
+  width: 360px;
+  height: 200px;
+  padding: 10px 20px;
+  background-color: lightgrey;
+}
+
+.image {
+  border: solid gray;
+  height: 50px;
+  width: 300px;
+}
